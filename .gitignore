@@ -1,0 +1,20 @@
+# Large data
+data/raw/*
+data/processed/*
+
+# Keep folder documentation
+!data/README.md
+!data/raw/README.md
+!data/processed/README.md
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Environments
+.env
+.venv

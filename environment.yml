@@ -1,0 +1,17 @@
+name: hvca-endothelial-reanalysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - scanpy
+  - anndata
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
+  - quarto
